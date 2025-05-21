@@ -9,7 +9,7 @@ DavidTechnik is my personal blog focused on technology and development. Here, I 
 
 ## View Live
 Check out the live site here:  
-https://your-username.github.io/your-repo-name/
+https://your-Davirisk.github.io/davidtechnik.github.io/
 
 ## Run Locally
 1. Clone the repository to your computer  
